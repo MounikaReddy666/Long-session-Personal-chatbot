@@ -5,7 +5,7 @@ This project is a **full-stack personal chatbot** that uses **FastAPI** as a bac
 ---
 
 ## 📁 Project Structure
-![Project directory](screenshots\Directory.png)
+![Project directory](screenshots/Directory.png)
 
 
 
@@ -79,10 +79,10 @@ The model may take time. Increase timeout or check your system load.
 
 ## 🖼️ Screenshots
 
-### 🏠 Home Page
+### 🏠 UI with Backend Integration
 
-![UI with backend integration where chatbot will answer user questions](screenShots\QandAWorkingDemo.png)
-(screenShots\codingAssistnatWorkingDemo.png)
+![Q&A Working Demo](screenshots/QandAWorkingDemo.png)
+![Coding Assistant Working Demo](screenshots/codingAssistnatWorkingDemo.png)
 
 
 ### 📃 License
