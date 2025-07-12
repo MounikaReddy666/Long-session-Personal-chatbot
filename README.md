@@ -89,8 +89,10 @@ The model may take time. Increase timeout or check your system load.
 This project is open-source for personal and learning purposes.
 
 ✨ Author
-Mounika Reddy Boggari
-GitHub | LinkedIn
+**Mounika Reddy Boggari**  
+[GitHub](https://github.com/MounikaReddy666) | [LinkedIn](https://www.linkedin.com/in/mounika-reddy-boggari-a5851b296/)
+📫 [Email me](mailto:boggarimounikareddy@gmail.com)
+
 
 🙌 Contributions
 Feel free to fork the repo, add features, and submit pull requests!
