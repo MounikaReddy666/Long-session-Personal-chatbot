@@ -5,24 +5,9 @@ This project is a **full-stack personal chatbot** that uses **FastAPI** as a bac
 ---
 
 ## 📁 Project Structure
+![Project directory](screenshots\Directory.png)
 
-buildingChatbot/
-│
-├── backend/
-│ ├── main.py # FastAPI backend for chat and model API
-│ └── requirements.txt # Backend dependencies
-│
-├── frontend/
-│ ├── app.py # Streamlit frontend UI
-│ └── requirements.txt # Frontend dependencies
-│
-└── README.md # This file
 
-yaml
-Copy
-Edit
-
----
 
 ## 🚀 Features
 
